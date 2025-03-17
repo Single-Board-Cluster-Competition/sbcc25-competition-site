@@ -22,7 +22,14 @@ The _Single-Board Cluster Competition (SBCC)_ is a competition where teams from 
 
 | MODE | ORG | LOCATION | SYSTEM | TEAM MEMBERS |
 |----|----|----|----|----|
-TODO
+|In-person|[USCD](./uscd.md)|La Jolla, CA||Cecilia Li, Ian Webster, Yixuan Li, Jackson Yang, George Mathews, Zyanya Rios, Chanyoung Park and Srujam Dave|
+|In-person|[USCD](./uscd.md)|La Jolla, CA||Aarush Mehrotra,  Gauri Renjith, Ferrari Guan, Luiz Gurrola, Ryan Estanislao, Shing Hung, William Wu and Minh Quach |
+|Remote|[AAU](./aau.md)|Aalborg, DK||Sofie Finnes Øvrelid, Thomas Møller Jensen, Brian Ellingsgaard and Tobias Sønder Nielsen| 
+|Remote|[TAAC](./tacc.md)|Austin, TX||Chidiogo Obianyor, Ethan Holman, Roy Garza, Tannar Mitchell, Oluwatobiloba Ajani Isaac and Batuhan Sencer|
+|Remote|[CU](./cu.md)|Clemson, SC||Erin Wood, Jacob Davis, Ethan Prevuznak, Tolga Bilgis, Keerthi Surisetty, Yagiz Doner, Lane Ireland, Chloe Crozier|
+|In-person|[KU](./ku.md)|Lawrence, KS||Michael Oliver, Wazeen Hoq, Shaan Bawa, Ky Q Le and Leo Cabezas Amigo|
+|In-person|[BU](./bu.md)|Massachusetts, US||David Li, Shamir Legaspi, Jason Jiang, Emika Hammond and Lukas Chin|
+
 
 [Back To TOC](#toc)
 

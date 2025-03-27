@@ -9,6 +9,7 @@ notified of specifics according to their local timezone.
 * [Welcome](#welcome)
 * [Teams](#teams)
 * [Schedule](#schedule)
+* [FAQ](#faq)
 
 [Back To TOC](#toc)
 
@@ -42,6 +43,22 @@ The _Single-Board Cluster Competition (SBCC)_ is a competition where teams from 
 TODO
 
 Here is the [FULL schedule](./sched.md)
+
+## FAQ <a id="faq"></a>
+
+### What is the bugdet for the hardware?
+- 6000 USD, Use american MSRP for hardware cost when possible.
+
+### What is the power budget for the cluster?
+- 250 Watts
+
+### Are eGPUs allowed?
+- Yes
+
+### Does a DHCP server count as part of the cluster?
+- No, given that it is only used for managing the cluster network / accessing the cluster.
+
+---
 
 
 [Back To TOC](#toc)

@@ -12,7 +12,7 @@ The _Single-Board Cluster Competition (SBCC)_ is a competition where teams from 
 | ---- | ---- | ---- | ---- | 
 | Thurs | 8:00 am PST | 5:00 pm PST | Setup |
 | Friday | 8:00 am PST | **1:00 pm PST** | Benchmarking |
-| Friday | 12:00 am PST | 5:00 pm PST | Competition Begins - Applications |
+| Friday | 12:00 pm PST | 5:00 pm PST | Competition Begins - Applications |
 | Saturday | 8:00 am PST | 3:00 pm PST | Final Submissions Due |
 | Saturday | 5:00 pm PST |   | Awards Ceremony |
 

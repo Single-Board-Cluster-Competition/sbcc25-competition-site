@@ -1,5 +1,54 @@
 # Clemsom University / Team Clemsom CyberTigers
 
+## Diagram 
+
+![image](./images/cu.png)
+
+## Hardware
+For this competition, we will be using a Raspberry Pi cluster with N nodes. Raspberry Pi’s are being used
+due to budget constraints. Since we will be competing from Clemson and not going to the UCSD or TACC
+hotspots, we will set up a livestream of a digital watt meter that our power strip is plugged into to be sure
+we do not go above the 250W limit. For internet access, we will be dedicating a single IP on Clemson’s
+eduroam network for external internet access, and setting up the rest of the Pi’s in a Beowulf
+configuration such that internet traffic is routed through the head node to each individual device
+
+| Component | Price | # of items | Total cost | Item Link |
+|-----------|-------|------------|------------|------------|
+| Raspberry Pi 4 | $35 | 20 | $700 | [Link](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/) |
+| NETGEAR 24-Port Gigabit Ethernet Unmanaged Switch (JGS524) | $149.99 | 1 | $149.99 | [Link](https://www.amazon.com/dp/B0002CWPW2?ref=cm_sw_r_cso_cp_apin_dp_30JAGVDZDR1Z9E3ZJR0B&ref_=cm_sw_r_cso_cp_apin_dp_30JAGVDZDR1Z9E3ZJR0B&social_share=cm_sw_r_cso_cp_apin_dp_30JAGVDZDR1Z9E3ZJR0B&starsLeft=1&th=1) |
+| **Overall Total** | | | **$849.99** | |
+
+
+## Software
+Our Raspberry Pi’s will be running the latest version of Raspbian, since group members have the most
+experience using it on these devices. The Raspberry Pi release of Rocky Linux was also considered, but
+because we are not as familiar with it, we are sticking with Raspbian for this competition.
+
+We have not yet settled on specific management tools for our cluster, but intend to use them because this
+system has a high node count. The challenge we are dealing with is finding one that supports PXE boot
+with ARM. The provisioner we use for our Student Cluster Competition system is xCAT, which does not
+support iPXE with ARM. Online research suggests that Warewulf provides this capability, but we have not
+confirmed this ourselves on a testbed yet. We currently do not have an Ansible repo or other cluster
+management system, but instead do all our setup in postscripts after provisioning.
+
+Our software stack will be managed with Spack. Our primary OpenMPI version will 5.0.3, since it is the
+latest version and Spack preferred. In case of issues, we are prepared to install other versions to suit our
+needs via Spack. Our linear algebra library will be the Spack preferred version of OpenBLAS, 0.3.26. This
+is also subject to change if this version has problems when building any of the applications
+
+## Strategy
+To make sure we do well in this competition, our main strategy will involve being as prepared as possible
+going in. The hardware we will be using is already in our possession, and we will stand up our cluster as
+soon as possible. We know all the benchmarks in advance of the competition, and will have them all
+running and optimized on our cluster before the start of the competition. Come April 10th, all we will have
+to do is run a script to produce the required results. In case anything goes wrong, all team members will
+be trained and have experience with each benchmark so they can assist with debugging.
+
+Being able to execute the benchmarks quickly will free up time for us to work on the mystery application.
+To learn, build and run a new application on the fly, team members will have opportunities to build various
+popular HPC applications on the Pi Cluster so they build the necessary skills
+
+
 ## Team Details
 Ethan is a senior (CPE) interested in various realms of computer science, including HPC. He has interned
 at Hawkes' Learning in 2023 as a development intern for AI solutions to streamline company data,

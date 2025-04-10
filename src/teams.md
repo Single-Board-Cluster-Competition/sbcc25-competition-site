@@ -22,4 +22,4 @@
 |Remote|[TTU](./teams/texas.md)|Lubbock, TX|Radxa X4|Chidiogo Obianyor, Ethan Holman, Roy Garza, Tannar Mitchell, Oluwatobiloba Ajani Isaac and Batuhan Sencer|
 |Remote|[CU](./teams/cu.md)|Clemson, SC|Raspberry Pi 4|Erin Wood, Jacob Davis, Ethan Prevuznak, Tolga Bilgis, Keerthi Surisetty, Yagiz Doner, Lane Ireland and Chloe Crozier|
 |Remote|[KU](./teams/ku.md)|Lawrence, KS|Orange Pi 5/5+|Michael Oliver, Wazeen Hoq, Shaan Bawa, Ky Q Le and Leo Cabezas Amigo|
-|Remote|[BU](./teams/bu.md)|Boston, US|TBA|David Li, Shamir Legaspi, Jason Jiang, Emika Hammond and Lukas Chin|
+<!--|Remote|[BU](./teams/bu.md)|Boston, US|TBA|David Li, Shamir Legaspi, Jason Jiang, Emika Hammond and Lukas Chin|-->

@@ -55,3 +55,4 @@ Our team is comprised of five (5) University of Kansas (KU) undergraduate studen
 | Shaan Bawa      | Freshman in Computer Science, Hixson Scholar.                             |
 | Wazeen Hoq      | Sophomore in Behavioral Neuroscience and Mathematics.                     |
 | Ky Le           | Senior in Computer Science.                                               |
+| Hope Wagner           | Freshman in Mechanical Engineering.                                               |

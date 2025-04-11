@@ -16,11 +16,8 @@ We will also be asking for a compressed files assembled from your logs such as `
 
 # STREAM
 
-*Instructions to be added later*
+Capture all relevant files/output and submit them. 
 
-### **Example Submission**
-
-*Example to be added later*
 
 ***Do not submit files twice***
 

@@ -26,9 +26,11 @@ Due to the presence of both MPI and C++ code in ParFEMWARP, it is recommended yo
 If your application only uses serial ParFEMWARP functions (i.e. does not utilize MPI), then you can execute your application without mpirun. If your application utilizes parallel ParFEMWARP functions (i.e. does utilize MPI), then you must use mpirun. Note that depending on your hardware and system configuration, you may need to explicitly supply mpirun with various MCA parameters to support shared memory and/or inter-node communication.
 
 ![body](./images/body.png "body.png")
+
 *Tetrahedral mesh of a human chest*
 
 ![body_plane](./images/body_plane.png "body_plane.png")
+
 *Cross section of tetrahedral mesh of a human chest*
 
 ## Challenge
@@ -59,7 +61,9 @@ Provide the following item in your supplementary item: 1) scripts and/or command
 
 
 ![serial_body](./images/serial_body.png "serial_body")
+
 *Example output of performing Simulation 1 via ParFEMWARP with 1 core (i.e. serially)*
 
 ![parallel_body](./images/parallel_body.png "parallel_body")
+
 *Example output of performing Simulation 1 via ParFEMWARP with 8 cores on 1 node*

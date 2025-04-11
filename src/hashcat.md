@@ -4,4 +4,4 @@
 
 ### Application Details:
 
-*currently empty until revealed*
+[Details](https://drive.google.com/drive/folders/1U1W2c9nAFLvwqS1HlYj3RKXDmJfL22Zs?usp=drive_link)

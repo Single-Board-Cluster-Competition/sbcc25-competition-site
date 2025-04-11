@@ -49,12 +49,6 @@ Provide the following item in your report: 1) runtime for the neighbor list gene
 
 Provide the following item in your supplementary item: 1) scripts and/or commands used to execute ParFEMWARP and 2) terminal output from ParFEMWARP for the simulation. Failure to provide terminal output for the simulation will drop your score to 0 out of 50 points for this simulation.
 
-![serial_body](./images/serial_body.png "serial_body")
-*Example output of performing Simulation 1 via ParFEMWARP with 1 core (i.e. serially)*
-
-![parallel_body](./images/parallel_body.png "parallel_body")
-*Example output of performing Simulation 1 via ParFEMWARP with 8 cores on 1 node*
-
 ## Rules
 1. No modifications to source code are allowed (i.e. any .cpp or .hpp file).
 2. Modifications to only Makefiles within ParFEMWARP are allowed.
@@ -62,3 +56,10 @@ Provide the following item in your supplementary item: 1) scripts and/or command
 4. Failure to provide terminal output for any simulation will drop your score to 0 out of 50 points for that simulation.
 5. Incomplete runs of simulations will grant partial credit based of how many stages and deformations have been completed. 
 6. All official runs performed by ParFEMWARP must run locally. This means on your competition hardware. You are free to execute unofficial runs on any device, including your laptop.
+
+
+![serial_body](./images/serial_body.png "serial_body")
+*Example output of performing Simulation 1 via ParFEMWARP with 1 core (i.e. serially)*
+
+![parallel_body](./images/parallel_body.png "parallel_body")
+*Example output of performing Simulation 1 via ParFEMWARP with 8 cores on 1 node*

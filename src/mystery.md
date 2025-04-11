@@ -1,5 +1,5 @@
 # Mystery App
-A PDF version of the Mystery Application Challenge is available [here](https://drive.google.com/file/d/1Hwt5YSMyE4taARMqRHxe55_XbhfqwmCm/view?usp=sharing).
+A PDF version of the Mystery Application Challenge is available [here](https://drive.google.com/file/d/17zG2p2sK_SLt0TN21CrCSXAeB67YMGdg/view?usp=sharing).
 
 ## Introduction
 Warping large volume meshes has applications in biomechanics, aerodynamics, and cardiology. However, warping large meshes is computationally expensive, and calls for efficient parallelization to reduce overall computation time. This year's mystery application is Parallel FEMWARP (ParFEMWARP). ParFEMWARP is a software package for warping large, tetrahedral volume meshes. Specifically, ParFEMWARP is a  parallelization for the finite element-based mesh warping algorithm (FEMWARP). The paper describing ParFEMWARP from a numerical and algorithmic point of view is available [here](https://internationalmeshingroundtable.com/assets/papers/2025/1018-compressed.pdf).
@@ -25,10 +25,10 @@ Due to the presence of both MPI and C++ code in ParFEMWARP, it is recommended yo
 ## Execute Programs that Utilize ParFEMWARP
 If your application only uses serial ParFEMWARP functions (i.e. does not utilize MPI), then you can execute your application without mpirun. If your application utilizes parallel ParFEMWARP functions (i.e. does utilize MPI), then you must use mpirun. Note that depending on your hardware and system configuration, you may need to explicitly supply mpirun with various MCA parameters to support shared memory and/or inter-node communication.
 
-![body](body.png "body.png")
+![body](./images/body.png "body.png")
 *Tetrahedral mesh of a human chest*
 
-![body_plane](body_plane.png "body_plane.png")
+![body_plane](./images/body_plane.png "body_plane.png")
 *Cross section of tetrahedral mesh of a human chest*
 
 ## Challenge
@@ -49,10 +49,10 @@ Provide the following item in your report: 1) runtime for the neighbor list gene
 
 Provide the following item in your supplementary item: 1) scripts and/or commands used to execute ParFEMWARP and 2) terminal output from ParFEMWARP for the simulation. Failure to provide terminal output for the simulation will drop your score to 0 out of 50 points for this simulation.
 
-![serial_body](serial_body.png "serial_body")
+![serial_body](./images/serial_body.png "serial_body")
 *Example output of performing Simulation 1 via ParFEMWARP with 1 core (i.e. serially)*
 
-![parallel_body](parallel_body.png "parallel_body")
+![parallel_body](./images/parallel_body.png "parallel_body")
 *Example output of performing Simulation 1 via ParFEMWARP with 8 cores on 1 node*
 
 ## Rules

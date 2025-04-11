@@ -13,9 +13,6 @@
 - [Schedule](./sched.md)
 - [Initial Cluster Setup](./setup.md)
 - [Remote Teams](./hybrid.md)
-<!-- This has not been filled out
-- [General Submission Instructions](./submission.md)
--->
 - [Benchmarks Rules and Validation](benchmark.md)
 - [D-LlAMA 3 8B Rules and Validation](./dllama.md)
 - [Hashcat Rules and Validation](./hashcat.md)

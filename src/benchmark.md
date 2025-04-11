@@ -16,11 +16,7 @@ We will also be asking for a compressed files assembled from your logs such as `
 
 # STREAM
 
-Capture all relevant files/output and submit them. 
+Capture all relevant files/output and submit them. Details also on channel.
 
 
 ***Do not submit files twice***
-
-# DLLAMA
-
-*Instructions to be added later*

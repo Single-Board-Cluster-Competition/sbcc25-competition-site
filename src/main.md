@@ -32,3 +32,7 @@ Notice that you can submit benchmarks one hour after application details are rev
 ### Does a DHCP server count as part of the cluster?
 - No, given that it is only used for managing the cluster network / accessing the cluster.
 
+
+### Can we use LLMs during the competition?
+- Yes. Only sharing information and getting advice from with mentors and individuals outside the competition should be avoided/not done. Communication in between teams and judges is allowed. Teams may also access the internet on their own computers, but not speak about the competition to others.
+

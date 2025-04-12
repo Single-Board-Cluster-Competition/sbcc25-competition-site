@@ -19,4 +19,4 @@
 - [Mystery Application Parameters and Validation](./mystery.md)
 - [Sysadmin](./sysadmin.md)
 - [Grading](./grading.md)
-<!-- [Results](./results.md) -->
+- [Results](./results.md)

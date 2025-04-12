@@ -17,5 +17,6 @@
 - [D-LlAMA 3 8B Rules and Validation](./dllama.md)
 - [Hashcat Rules and Validation](./hashcat.md)
 - [Mystery Application Parameters and Validation](./mystery.md)
+- [Sysadmin](./sysadmin.md)
 - [Grading](./grading.md)
 <!-- [Results](./results.md) -->

@@ -21,8 +21,5 @@ A central switch that has a DHCP for example, would count, but a router running 
 ## Power
 For power, since you are remote, we expect you to have a log (aka your video stream recording) of your power and during submissions include a full log of your cluster's power consumption throughout the competition.
 
-## Logs
-Compress the paths where logs are often stored, usually just `/var`, from the head/login/main compute nodes. If your team believes that the logs after a certain number of nodes is too similar, exclude them. This means if you feel that node 1, node 2, node 3 have the most distinct logs, but the following nodes 4---12 nodes are just a repetition of the first 3 logs, just exclude them. We will ask for these files to be submitted at the end of the competition.
-
 ## Access
 We're running on an honor code for remote teams to comply of not having access to their clusters after 5:00pm their time in fairness for the on-site teams.

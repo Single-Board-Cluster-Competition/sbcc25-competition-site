@@ -44,12 +44,12 @@ Provide the following items in your report: 1) single node strong scaling speedu
 
 Provide the following items in your supplementary item: 1) scripts and/or commands and 2) terminal output from ParFEMWARP for each trial. Failure to provide terminal output for all trials will drop your score to 0 out of 50 points for this simulation.
 
-### Simulation 2: breathing2 - 50 points
-Simulation 2 is simulating 480 deformations of a human chest. You are provided code to read and deform the mesh in ParFEMWARP/examples/breathing2. You are only expected to perform this simulation once using the most optimal configuration you believe your system can provide **with at least 2 nodes**}.
+### ~~Simulation 2: breathing2 - 50 points~~
+~~Simulation 2 is simulating 480 deformations of a human chest. You are provided code to read and deform the mesh in ParFEMWARP/examples/breathing2. You are only expected to perform this simulation once using the most optimal configuration you believe your system can provide **with at least 2 nodes**.~~
 
-Provide the following item in your report: 1) runtime for the neighbor list generation stage (10 points), 2) runtime for the global stiffness matrix generation stage (5 points), 3) average runtime for each linear solution stage (15/480 points per deformation, 15 points total), 4) total deformations completed (15/480 points per deformation, 15 points total), and 5) runtime of the overall method (5 times the ratio of your team's runtime versus the best runtime across all teams, 5 points total).
+~~Provide the following item in your report: 1) runtime for the neighbor list generation stage (10 points), 2) runtime for the global stiffness matrix generation stage (5 points), 3) average runtime for each linear solution stage (15/480 points per deformation, 15 points total), 4) total deformations completed (15/480 points per deformation, 15 points total), and 5) runtime of the overall method (5 times the ratio of your team's runtime versus the best runtime across all teams, 5 points total).~~
 
-Provide the following item in your supplementary item: 1) scripts and/or commands used to execute ParFEMWARP and 2) terminal output from ParFEMWARP for the simulation. Failure to provide terminal output for the simulation will drop your score to 0 out of 50 points for this simulation.
+~~Provide the following item in your supplementary item: 1) scripts and/or commands used to execute ParFEMWARP and 2) terminal output from ParFEMWARP for the simulation. Failure to provide terminal output for the simulation will drop your score to 0 out of 50 points for this simulation.~~
 
 ## Rules
 1. No modifications to source code are allowed (i.e. any .cpp or .hpp file).

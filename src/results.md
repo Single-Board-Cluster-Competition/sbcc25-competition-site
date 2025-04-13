@@ -1,4 +1,4 @@
-# 🏆 SBCC24 Final Results
+# 🏆 SBCC25 Final Results
 
 Below are the **top 3 teams in each category**, along with their respective scores:
 

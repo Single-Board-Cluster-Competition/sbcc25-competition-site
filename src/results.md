@@ -23,7 +23,7 @@ Below are the **top 3 teams in each category**, along with their respective scor
 3. 🥉 **Texas Tech** – 16.87  
 
 ## 🧮 ParFEMWARP
-1. 🥇 **Kansas U** – 26.10   
+1. 🥇 **U of Kansas** – 26.10   
 2. 🥈 **UCSD T1** – 25.457  
 3. 🥉 **Texas Tech** – 25.042 
 
